@@ -29,7 +29,6 @@ ENV/
 .history
 
 # Project specific
-src/posterfy/config.py
 examples/outputs/*
 *.jpg
 *.png
